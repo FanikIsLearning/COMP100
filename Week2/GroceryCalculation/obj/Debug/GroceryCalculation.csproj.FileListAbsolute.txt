@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\bin\Debug\GroceryCalculation.exe.config
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\bin\Debug\GroceryCalculation.exe
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\bin\Debug\GroceryCalculation.pdb
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\obj\Debug\GroceryCalculation.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\obj\Debug\GroceryCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\obj\Debug\GroceryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\obj\Debug\GroceryCalculation.exe
+C:\Users\ivanf\development\COMP100\Week2\GroceryCalculation\obj\Debug\GroceryCalculation.pdb
