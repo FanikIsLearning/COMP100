@@ -2,6 +2,7 @@
 
 college infos:
 https://netdrive.centennialcollege.ca/FileWay/
+
 https://centennial-college.vmwareidentity.ca/
 
 Microsoft Resources: Visual Studio 2022
