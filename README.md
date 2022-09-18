@@ -1,16 +1,19 @@
 # learning C# COMP100
 
 college infos:
+
 https://netdrive.centennialcollege.ca/FileWay/
 
 https://centennial-college.vmwareidentity.ca/
 
 Microsoft Resources: Visual Studio 2022
+
 https://azureforeducation.microsoft.com/devtools
 
 # Steps of building a project
+
 Window:
-1. Create a New Project - 
+1. Create a New Project
 2. Choose Console App (.Net Framework) c#
 3. Change location, project name, solution name
 4. Create
