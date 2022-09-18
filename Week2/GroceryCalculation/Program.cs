@@ -18,7 +18,7 @@ namespace GroceryCalculation
     {
         static void Main(string[] args)
         {
-
+     
             Console.Write("What item would you like to buy? ");
             string name = Console.ReadLine();
 
