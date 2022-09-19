@@ -1,0 +1,8 @@
+C:\Users\301249275\Desktop\Week1\Volume\bin\Debug\Volume.exe.config
+C:\Users\301249275\Desktop\Week1\Volume\bin\Debug\Volume.exe
+C:\Users\301249275\Desktop\Week1\Volume\bin\Debug\Volume.pdb
+C:\Users\301249275\Desktop\Week1\Volume\obj\Debug\Volume.csproj.AssemblyReference.cache
+C:\Users\301249275\Desktop\Week1\Volume\obj\Debug\Volume.csproj.SuggestedBindingRedirects.cache
+C:\Users\301249275\Desktop\Week1\Volume\obj\Debug\Volume.csproj.CoreCompileInputs.cache
+C:\Users\301249275\Desktop\Week1\Volume\obj\Debug\Volume.exe
+C:\Users\301249275\Desktop\Week1\Volume\obj\Debug\Volume.pdb

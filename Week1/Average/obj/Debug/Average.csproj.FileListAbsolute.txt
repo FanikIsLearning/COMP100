@@ -1,0 +1,8 @@
+C:\Users\301249275\Desktop\Week1\Average\bin\Debug\Average.exe.config
+C:\Users\301249275\Desktop\Week1\Average\bin\Debug\Average.exe
+C:\Users\301249275\Desktop\Week1\Average\bin\Debug\Average.pdb
+C:\Users\301249275\Desktop\Week1\Average\obj\Debug\Average.csproj.AssemblyReference.cache
+C:\Users\301249275\Desktop\Week1\Average\obj\Debug\Average.csproj.SuggestedBindingRedirects.cache
+C:\Users\301249275\Desktop\Week1\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\Users\301249275\Desktop\Week1\Average\obj\Debug\Average.exe
+C:\Users\301249275\Desktop\Week1\Average\obj\Debug\Average.pdb
