@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\bin\Debug\Q7_AreaCircle.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\bin\Debug\Q7_AreaCircle.exe
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\bin\Debug\Q7_AreaCircle.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\obj\Debug\Q7_AreaCircle.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\obj\Debug\Q7_AreaCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\obj\Debug\Q7_AreaCircle.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\obj\Debug\Q7_AreaCircle.exe
+C:\Users\ivanf\development\COMP100\Week2\Q7_AreaCircle\obj\Debug\Q7_AreaCircle.pdb

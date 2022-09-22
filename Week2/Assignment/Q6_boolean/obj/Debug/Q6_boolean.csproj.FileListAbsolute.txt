@@ -1,0 +1,16 @@
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\bin\Debug\Q6_boolean.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\bin\Debug\Q6_boolean.exe
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\bin\Debug\Q6_boolean.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\obj\Debug\Q6_boolean.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\obj\Debug\Q6_boolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\obj\Debug\Q6_boolean.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\obj\Debug\Q6_boolean.exe
+C:\Users\ivanf\development\COMP100\Week2\Q6_boolean\obj\Debug\Q6_boolean.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\bin\Debug\Q6_boolean.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\bin\Debug\Q6_boolean.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\bin\Debug\Q6_boolean.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\obj\Debug\Q6_boolean.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\obj\Debug\Q6_boolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\obj\Debug\Q6_boolean.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\obj\Debug\Q6_boolean.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q6_boolean\obj\Debug\Q6_boolean.pdb

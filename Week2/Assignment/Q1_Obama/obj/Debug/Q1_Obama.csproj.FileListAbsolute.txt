@@ -1,0 +1,16 @@
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\bin\Debug\Q1_Obama.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\bin\Debug\Q1_Obama.exe
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\bin\Debug\Q1_Obama.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\obj\Debug\Q1_Obama.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\obj\Debug\Q1_Obama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\obj\Debug\Q1_Obama.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\obj\Debug\Q1_Obama.exe
+C:\Users\ivanf\development\COMP100\Week2\Q1_Obama\obj\Debug\Q1_Obama.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\bin\Debug\Q1_Obama.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\bin\Debug\Q1_Obama.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\bin\Debug\Q1_Obama.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\obj\Debug\Q1_Obama.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\obj\Debug\Q1_Obama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\obj\Debug\Q1_Obama.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\obj\Debug\Q1_Obama.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q1_Obama\obj\Debug\Q1_Obama.pdb

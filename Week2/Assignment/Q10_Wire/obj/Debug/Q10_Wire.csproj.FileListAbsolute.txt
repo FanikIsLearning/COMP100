@@ -1,0 +1,16 @@
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\bin\Debug\Q10_Wire.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\bin\Debug\Q10_Wire.exe
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\bin\Debug\Q10_Wire.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\obj\Debug\Q10_Wire.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\obj\Debug\Q10_Wire.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\obj\Debug\Q10_Wire.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\obj\Debug\Q10_Wire.exe
+C:\Users\ivanf\development\COMP100\Week2\Q10_Wire\obj\Debug\Q10_Wire.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\bin\Debug\Q10_Wire.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\bin\Debug\Q10_Wire.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\bin\Debug\Q10_Wire.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\obj\Debug\Q10_Wire.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\obj\Debug\Q10_Wire.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\obj\Debug\Q10_Wire.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\obj\Debug\Q10_Wire.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q10_Wire\obj\Debug\Q10_Wire.pdb

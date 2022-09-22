@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\bin\Debug\Q9_Ticket.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\bin\Debug\Q9_Ticket.exe
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\bin\Debug\Q9_Ticket.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\obj\Debug\Q9_Ticket.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\obj\Debug\Q9_Ticket.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\obj\Debug\Q9_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\obj\Debug\Q9_Ticket.exe
+C:\Users\ivanf\development\COMP100\Week2\Q9_Ticket\obj\Debug\Q9_Ticket.pdb

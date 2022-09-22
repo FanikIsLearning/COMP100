@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\bin\Debug\Sum_and_Difference.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\bin\Debug\Sum_and_Difference.exe
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\bin\Debug\Sum_and_Difference.pdb
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\obj\Debug\Q3_Sum_and_Difference.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\obj\Debug\Q3_Sum_and_Difference.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\obj\Debug\Q3_Sum_and_Difference.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\obj\Debug\Sum_and_Difference.exe
+C:\Users\ivanf\development\COMP100\Week2\Sum_and_Difference\obj\Debug\Sum_and_Difference.pdb

@@ -1,0 +1,16 @@
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\obj\Debug\Q2_siblings.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\obj\Debug\Q2_siblings.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\obj\Debug\Q2_siblings.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\bin\Debug\Q2_siblings.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\bin\Debug\Q2_siblings.exe
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\bin\Debug\Q2_siblings.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\obj\Debug\Q2_siblings.exe
+C:\Users\ivanf\development\COMP100\Week2\Q2_siblings\obj\Debug\Q2_siblings.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\bin\Debug\Q2_siblings.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\bin\Debug\Q2_siblings.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\bin\Debug\Q2_siblings.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\obj\Debug\Q2_Siblings.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\obj\Debug\Q2_Siblings.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\obj\Debug\Q2_Siblings.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\obj\Debug\Q2_siblings.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q2_Siblings\obj\Debug\Q2_siblings.pdb

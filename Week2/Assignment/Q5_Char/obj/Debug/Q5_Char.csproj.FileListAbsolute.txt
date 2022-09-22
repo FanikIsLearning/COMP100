@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\bin\Debug\Q5_Char.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\bin\Debug\Q5_Char.exe
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\bin\Debug\Q5_Char.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\obj\Debug\Q5_Char.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\obj\Debug\Q5_Char.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\obj\Debug\Q5_Char.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\obj\Debug\Q5_Char.exe
+C:\Users\ivanf\development\COMP100\Week2\Q5_Char\obj\Debug\Q5_Char.pdb

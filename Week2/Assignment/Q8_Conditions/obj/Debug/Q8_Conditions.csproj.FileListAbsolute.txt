@@ -1,0 +1,16 @@
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\bin\Debug\Q8_Conditions.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\bin\Debug\Q8_Conditions.exe
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\bin\Debug\Q8_Conditions.pdb
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\obj\Debug\Q8_Conditions.exe
+C:\Users\ivanf\development\COMP100\Week2\Q8_Conditions\obj\Debug\Q8_Conditions.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\bin\Debug\Q8_Conditions.exe.config
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\bin\Debug\Q8_Conditions.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\bin\Debug\Q8_Conditions.pdb
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\obj\Debug\Q8_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\obj\Debug\Q8_Conditions.exe
+C:\Users\ivanf\development\COMP100\Week2\Assignment\Q8_Conditions\obj\Debug\Q8_Conditions.pdb
