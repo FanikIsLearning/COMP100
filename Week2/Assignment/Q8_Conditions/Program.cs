@@ -20,7 +20,7 @@ namespace Q8_Conditions
             Console.Write("Insert a number: ");
             double input = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine($"the output will be {input:F3}, {(init)input}, and {(char)input}.");
+            Console.WriteLine($"the output will be {input:F3}, {(int)input}, and {(char)input}.");
             Console.ReadLine();
         }
     }
