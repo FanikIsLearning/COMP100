@@ -17,13 +17,10 @@ namespace Q8_Conditions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Insert a number: ");
-            double firstOutput = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Insert a number: ");
+            double input = Convert.ToDouble(Console.ReadLine());
 
-            int secondOutput = Convert.ToInt32(firstOutput);
-            char thirdOutput = Convert.ToChar("A");
-
-            Console.WriteLine($"the output will be {firstOutput}, {secondOutput}, and {thirdOutput}.");
+            Console.WriteLine($"the output will be {input:F3}, {(int)input}, and {(char)input}.");
             Console.ReadLine();
         }
     }
