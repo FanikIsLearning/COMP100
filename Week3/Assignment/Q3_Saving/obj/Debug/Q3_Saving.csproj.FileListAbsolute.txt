@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\bin\Debug\Q3_Saving.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\bin\Debug\Q3_Saving.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\bin\Debug\Q3_Saving.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\obj\Debug\Q3_Saving.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\obj\Debug\Q3_Saving.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\obj\Debug\Q3_Saving.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\obj\Debug\Q3_Saving.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q3_Saving\obj\Debug\Q3_Saving.pdb

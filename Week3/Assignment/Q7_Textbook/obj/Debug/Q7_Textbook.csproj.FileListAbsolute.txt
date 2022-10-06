@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\bin\Debug\Q7_Textbook.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\bin\Debug\Q7_Textbook.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\bin\Debug\Q7_Textbook.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\obj\Debug\Q7_Textbook.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\obj\Debug\Q7_Textbook.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\obj\Debug\Q7_Textbook.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\obj\Debug\Q7_Textbook.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q7_Textbook\obj\Debug\Q7_Textbook.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\bin\Debug\Q2_Rate.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\bin\Debug\Q2_Rate.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\bin\Debug\Q2_Rate.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\obj\Debug\Q2_Rate.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\obj\Debug\Q2_Rate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\obj\Debug\Q2_Rate.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\obj\Debug\Q2_Rate.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q2_Rate\obj\Debug\Q2_Rate.pdb

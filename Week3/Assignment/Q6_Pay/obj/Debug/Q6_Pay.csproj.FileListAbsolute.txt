@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\bin\Debug\Q6_Pay.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\bin\Debug\Q6_Pay.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\bin\Debug\Q6_Pay.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\obj\Debug\Q6_Pay.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\obj\Debug\Q6_Pay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\obj\Debug\Q6_Pay.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\obj\Debug\Q6_Pay.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q6_Pay\obj\Debug\Q6_Pay.pdb

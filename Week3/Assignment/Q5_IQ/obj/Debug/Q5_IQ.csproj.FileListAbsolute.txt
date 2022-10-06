@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\bin\Debug\Q5_IQ.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\bin\Debug\Q5_IQ.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\bin\Debug\Q5_IQ.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\obj\Debug\Q5_IQ.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\obj\Debug\Q5_IQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\obj\Debug\Q5_IQ.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\obj\Debug\Q5_IQ.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q5_IQ\obj\Debug\Q5_IQ.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\bin\Debug\Q4_Length.exe.config
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\bin\Debug\Q4_Length.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\bin\Debug\Q4_Length.pdb
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\obj\Debug\Q4_Length.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\obj\Debug\Q4_Length.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\obj\Debug\Q4_Length.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\obj\Debug\Q4_Length.exe
+C:\Users\ivanf\development\COMP100\Week3\Assignment\Q4_Length\obj\Debug\Q4_Length.pdb
