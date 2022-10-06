@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\obj\Debug\Q3_SimpleCal.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\obj\Debug\Q3_SimpleCal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\obj\Debug\Q3_SimpleCal.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\bin\Debug\Q3_SimpleCal.exe.config
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\bin\Debug\Q3_SimpleCal.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\bin\Debug\Q3_SimpleCal.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\obj\Debug\Q3_SimpleCal.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q3_SimpleCal\obj\Debug\Q3_SimpleCal.pdb

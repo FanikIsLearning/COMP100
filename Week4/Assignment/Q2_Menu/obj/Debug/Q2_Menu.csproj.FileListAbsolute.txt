@@ -1,0 +1,16 @@
+H:\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.exe.config
+H:\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.exe
+H:\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.pdb
+H:\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.AssemblyReference.cache
+H:\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.CoreCompileInputs.cache
+H:\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.exe
+H:\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.exe.config
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\bin\Debug\Q2_Menu.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q2_Menu\obj\Debug\Q2_Menu.pdb

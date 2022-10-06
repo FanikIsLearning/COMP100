@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\bin\Debug\Q4_Residents.exe.config
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\bin\Debug\Q4_Residents.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\bin\Debug\Q4_Residents.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\obj\Debug\Q4_Residents.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\obj\Debug\Q4_Residents.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\obj\Debug\Q4_Residents.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\obj\Debug\Q4_Residents.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q4_Residents\obj\Debug\Q4_Residents.pdb

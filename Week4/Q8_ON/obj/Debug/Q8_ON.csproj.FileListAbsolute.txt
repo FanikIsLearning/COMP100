@@ -1,0 +1,8 @@
+H:\COMP100\Week4\Q8_ON\bin\Debug\Q8_ON.exe.config
+H:\COMP100\Week4\Q8_ON\bin\Debug\Q8_ON.exe
+H:\COMP100\Week4\Q8_ON\bin\Debug\Q8_ON.pdb
+H:\COMP100\Week4\Q8_ON\obj\Debug\Q8_ON.csproj.AssemblyReference.cache
+H:\COMP100\Week4\Q8_ON\obj\Debug\Q8_ON.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week4\Q8_ON\obj\Debug\Q8_ON.csproj.CoreCompileInputs.cache
+H:\COMP100\Week4\Q8_ON\obj\Debug\Q8_ON.exe
+H:\COMP100\Week4\Q8_ON\obj\Debug\Q8_ON.pdb

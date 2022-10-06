@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\bin\Debug\Q6_Furniture.exe.config
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\bin\Debug\Q6_Furniture.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\bin\Debug\Q6_Furniture.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\obj\Debug\Q6_Furniture.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\obj\Debug\Q6_Furniture.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\obj\Debug\Q6_Furniture.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\obj\Debug\Q6_Furniture.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q6_Furniture\obj\Debug\Q6_Furniture.pdb

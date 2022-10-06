@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\bin\Debug\Q5_Week.exe.config
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\bin\Debug\Q5_Week.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\bin\Debug\Q5_Week.pdb
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\obj\Debug\Q5_Week.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\obj\Debug\Q5_Week.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\obj\Debug\Q5_Week.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\obj\Debug\Q5_Week.exe
+C:\Users\ivanf\development\COMP100\Week4\Assignment\Q5_Week\obj\Debug\Q5_Week.pdb
