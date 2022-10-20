@@ -6,3 +6,11 @@ C:\Users\ivanf\development\COMP100\Week5\Assignment\Q11_Machine\obj\Debug\Q11_Ma
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q11_Machine\obj\Debug\Q11_Machine.csproj.CoreCompileInputs.cache
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q11_Machine\obj\Debug\Q11_Machine.exe
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q11_Machine\obj\Debug\Q11_Machine.pdb
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\bin\Debug\Q11_Machine.exe.config
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\bin\Debug\Q11_Machine.exe
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\bin\Debug\Q11_Machine.pdb
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\obj\Debug\Q11_Machine.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\obj\Debug\Q11_Machine.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\obj\Debug\Q11_Machine.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\obj\Debug\Q11_Machine.exe
+H:\COMP100\Week5\Assignment\Assignment\Q11_Machine\obj\Debug\Q11_Machine.pdb

@@ -1,0 +1,8 @@
+H:\COMP100\Week5\doWhile\flag\bin\Debug\flag.exe.config
+H:\COMP100\Week5\doWhile\flag\bin\Debug\flag.exe
+H:\COMP100\Week5\doWhile\flag\bin\Debug\flag.pdb
+H:\COMP100\Week5\doWhile\flag\obj\Debug\flag.csproj.AssemblyReference.cache
+H:\COMP100\Week5\doWhile\flag\obj\Debug\flag.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\doWhile\flag\obj\Debug\flag.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\doWhile\flag\obj\Debug\flag.exe
+H:\COMP100\Week5\doWhile\flag\obj\Debug\flag.pdb

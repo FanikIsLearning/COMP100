@@ -1,0 +1,8 @@
+H:\COMP100\Week5\doWhile\doWhile\obj\Debug\doWhile.csproj.AssemblyReference.cache
+H:\COMP100\Week5\doWhile\doWhile\obj\Debug\doWhile.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\doWhile\doWhile\bin\Debug\doWhile.exe.config
+H:\COMP100\Week5\doWhile\doWhile\bin\Debug\doWhile.exe
+H:\COMP100\Week5\doWhile\doWhile\bin\Debug\doWhile.pdb
+H:\COMP100\Week5\doWhile\doWhile\obj\Debug\doWhile.exe
+H:\COMP100\Week5\doWhile\doWhile\obj\Debug\doWhile.pdb

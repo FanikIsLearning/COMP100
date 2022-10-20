@@ -21,15 +21,15 @@ namespace Q11_Machine
         {
             double machine = 28000, rate = 4000, ad = 0, stop = 0;
             int year = 0;
-            Console.Write(String.Format("{0,-7}{1,-16}{2,-16}{3,10}", "", "", "END-OF-YEAR", "ACCUMLATED\n"));
-            Console.Write(String.Format("{0,-7}{1,-19}{2,-12}{3,10}", "YEAR", "DEPRECIATION","VALUE", "DEPRECIATION\n"));
-            Console.Write(String.Format("{0,-7}{1,-16}{2,-15}{3,10}", "----", "------------", "-----------", "------------\n"));
+            Console.Write($"{" ",-6} {" ",-15} {"END-OF-YEAR",-15} {"ACCUMLATED", -13}\n");
+            Console.Write($"{"YEAR",-6} {"DEPRECIATION",-18} {"VALUE",-11} {"DEPRECIATION", -13}\n");
+            Console.Write($"{"----",-6} {"------------",-15} {"-----------",-14} {"------------", -13}\n");
             do
             {
                 year++;
                 ad += rate;
                 machine -= rate;
-                Console.Write(String.Format("{0,-7}{1,-16}{2,-15}{3,10}", $"{year}", $"{rate:c}", $"{machine:c}", $"{ad:c}\n"));
+                Console.Write($"{year, -8} {$"{rate:c0}", -15} {$"{machine:c0}",-14} {$"{ad:c0}", -13}\n");
             } while (machine > stop);
             
         }

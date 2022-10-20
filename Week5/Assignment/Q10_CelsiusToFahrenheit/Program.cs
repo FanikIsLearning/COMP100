@@ -18,13 +18,13 @@ namespace Q10_CelsiusToFahrenheit
         static void Main(string[] args)
         {
             double start = 101, stop = 0, f = 0;
-            Console.Write(String.Format("{0,-10} {1,-10}", "Celsius", "Fahrenheit\n"));
-            Console.Write(String.Format("{0,-10} {1,-10}", "-------", "----------\n"));
+            Console.Write($"{"Celsius", -10} {"Fahrenheit", -10}\n");
+            Console.Write($"{"-------",-10} {"----------",-10}\n"); ;
             do
             {
                 start--;
                 f = (9 / 5) * start + 32;
-                Console.WriteLine(String.Format("{0,-10} {1,-10}", start, $"{f}\n"));
+                Console.WriteLine($"{start,-10} {f, -10}\n");
             } while (start > stop);
         }
     }

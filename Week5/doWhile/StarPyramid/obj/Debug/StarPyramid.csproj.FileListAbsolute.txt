@@ -1,0 +1,8 @@
+H:\COMP100\Week5\doWhile\StarPyramid\obj\Debug\StarPyramid.csproj.AssemblyReference.cache
+H:\COMP100\Week5\doWhile\StarPyramid\obj\Debug\StarPyramid.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\doWhile\StarPyramid\obj\Debug\StarPyramid.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\doWhile\StarPyramid\bin\Debug\StarPyramid.exe.config
+H:\COMP100\Week5\doWhile\StarPyramid\bin\Debug\StarPyramid.exe
+H:\COMP100\Week5\doWhile\StarPyramid\bin\Debug\StarPyramid.pdb
+H:\COMP100\Week5\doWhile\StarPyramid\obj\Debug\StarPyramid.exe
+H:\COMP100\Week5\doWhile\StarPyramid\obj\Debug\StarPyramid.pdb

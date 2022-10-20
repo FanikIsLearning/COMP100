@@ -1,0 +1,8 @@
+H:\COMP100\Week5\Exercises\ex5\bin\Debug\ex5.exe.config
+H:\COMP100\Week5\Exercises\ex5\bin\Debug\ex5.exe
+H:\COMP100\Week5\Exercises\ex5\bin\Debug\ex5.pdb
+H:\COMP100\Week5\Exercises\ex5\obj\Debug\ex5.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Exercises\ex5\obj\Debug\ex5.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Exercises\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Exercises\ex5\obj\Debug\ex5.exe
+H:\COMP100\Week5\Exercises\ex5\obj\Debug\ex5.pdb

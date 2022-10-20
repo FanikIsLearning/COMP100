@@ -1,0 +1,3 @@
+H:\COMP100\Week5\Q5_IQ\obj\Debug\Q5_IQ.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Q5_IQ\obj\Debug\Q5_IQ.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Q5_IQ\obj\Debug\Q5_IQ.csproj.CoreCompileInputs.cache

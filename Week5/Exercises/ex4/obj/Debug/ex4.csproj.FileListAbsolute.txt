@@ -1,0 +1,8 @@
+H:\COMP100\Week5\Exercises\ex4\bin\Debug\ex4.exe.config
+H:\COMP100\Week5\Exercises\ex4\bin\Debug\ex4.exe
+H:\COMP100\Week5\Exercises\ex4\bin\Debug\ex4.pdb
+H:\COMP100\Week5\Exercises\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Exercises\ex4\obj\Debug\ex4.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Exercises\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Exercises\ex4\obj\Debug\ex4.exe
+H:\COMP100\Week5\Exercises\ex4\obj\Debug\ex4.pdb

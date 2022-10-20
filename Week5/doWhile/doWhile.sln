@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doWhile", "doWhile\doWhile.csproj", "{5CA72757-8863-4DCA-A2B2-203431AE7B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flag", "flag\flag.csproj", "{F8144F28-FA1A-47FC-B4B3-1387556CDC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid", "StarPyramid\StarPyramid.csproj", "{186E001A-82AA-4435-8BCB-CDB3DF5CE6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA72757-8863-4DCA-A2B2-203431AE7B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA72757-8863-4DCA-A2B2-203431AE7B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA72757-8863-4DCA-A2B2-203431AE7B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA72757-8863-4DCA-A2B2-203431AE7B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8144F28-FA1A-47FC-B4B3-1387556CDC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8144F28-FA1A-47FC-B4B3-1387556CDC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8144F28-FA1A-47FC-B4B3-1387556CDC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8144F28-FA1A-47FC-B4B3-1387556CDC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186E001A-82AA-4435-8BCB-CDB3DF5CE6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186E001A-82AA-4435-8BCB-CDB3DF5CE6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186E001A-82AA-4435-8BCB-CDB3DF5CE6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186E001A-82AA-4435-8BCB-CDB3DF5CE6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B6D405-DAB7-4351-9E91-44B2DBD4653B}
+	EndGlobalSection
+EndGlobal

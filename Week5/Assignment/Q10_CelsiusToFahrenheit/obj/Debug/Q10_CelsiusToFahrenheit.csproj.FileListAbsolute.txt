@@ -6,3 +6,11 @@ C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.exe
 C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.pdb
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.exe.config
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.exe
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.pdb
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.exe
+H:\COMP100\Week5\Assignment\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.pdb
