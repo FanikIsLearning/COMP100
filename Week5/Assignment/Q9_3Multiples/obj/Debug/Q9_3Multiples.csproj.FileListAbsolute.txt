@@ -1,0 +1,16 @@
+H:\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.exe.config
+H:\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.exe
+H:\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.pdb
+H:\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.exe
+H:\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.pdb
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.exe.config
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\bin\Debug\Q9_3Multiples.pdb
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q9_3Multiples\obj\Debug\Q9_3Multiples.pdb

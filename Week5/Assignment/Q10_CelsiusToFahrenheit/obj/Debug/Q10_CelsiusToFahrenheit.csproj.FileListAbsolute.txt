@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.exe.config
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\bin\Debug\Q10_CelsiusToFahrenheit.pdb
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q10_CelsiusToFahrenheit\obj\Debug\Q10_CelsiusToFahrenheit.pdb

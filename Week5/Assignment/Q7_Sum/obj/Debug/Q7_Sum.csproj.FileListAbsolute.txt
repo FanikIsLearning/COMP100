@@ -1,0 +1,8 @@
+H:\COMP100\Week5\Assignment\Q7_Sum\bin\Debug\Q7_Sum.exe.config
+H:\COMP100\Week5\Assignment\Q7_Sum\bin\Debug\Q7_Sum.exe
+H:\COMP100\Week5\Assignment\Q7_Sum\bin\Debug\Q7_Sum.pdb
+H:\COMP100\Week5\Assignment\Q7_Sum\obj\Debug\Q7_Sum.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Assignment\Q7_Sum\obj\Debug\Q7_Sum.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Assignment\Q7_Sum\obj\Debug\Q7_Sum.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Assignment\Q7_Sum\obj\Debug\Q7_Sum.exe
+H:\COMP100\Week5\Assignment\Q7_Sum\obj\Debug\Q7_Sum.pdb

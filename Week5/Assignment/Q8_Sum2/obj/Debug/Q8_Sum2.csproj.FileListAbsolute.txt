@@ -1,0 +1,16 @@
+H:\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.exe.config
+H:\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.exe
+H:\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.pdb
+H:\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.AssemblyReference.cache
+H:\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.CoreCompileInputs.cache
+H:\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.exe
+H:\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.pdb
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.exe.config
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\bin\Debug\Q8_Sum2.pdb
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.exe
+C:\Users\ivanf\development\COMP100\Week5\Assignment\Q8_Sum2\obj\Debug\Q8_Sum2.pdb
