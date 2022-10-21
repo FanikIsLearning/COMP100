@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2869990D-9C55-45C5-9CA0-622EAD0C912B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Q8_ON/Program.cs">
+    <Files>
+      <File FileName="Q8_ON/Program.cs" Line="24" Column="1" />
+      <File FileName="notes/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week4" expanded="True">
+            <Node name="notes" expanded="True" />
+            <Node name="Q8_ON" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Q8__ON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.notes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
