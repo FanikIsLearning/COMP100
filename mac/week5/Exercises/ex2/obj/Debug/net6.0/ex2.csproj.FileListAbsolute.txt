@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/bin/Debug/net6.0/ex2
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/bin/Debug/net6.0/ex2.deps.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/bin/Debug/net6.0/ex2.runtimeconfig.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/bin/Debug/net6.0/ex2.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/bin/Debug/net6.0/ex2.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.AssemblyInfo.cs
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/refint/ex2.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ex2.genruntimeconfig.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/ex2/obj/Debug/net6.0/ref/ex2.dll
