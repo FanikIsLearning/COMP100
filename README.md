@@ -158,3 +158,4 @@ First Name           Last Name            Value                Time
 Luiz                 Parente              $20.00               2/9/2020            
 */
 ```
+cheatsheet by luizcentennial
