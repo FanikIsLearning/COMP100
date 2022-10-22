@@ -1,5 +1,38 @@
-﻿<Properties StartupConfiguration="{E7582E72-95F9-4F57-AAE7-56F9DA486F6D}|Default">
-  <MonoDevelop.Ide.ItemProperties.ex2 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{A83446A4-548F-4AE3-88F1-BC460E4DA9D1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.q1e PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.q6f PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="q5a/Program.cs">
+    <Files>
+      <File FileName="ex1/Program.cs" Line="11" Column="40" />
+      <File FileName="ex2/Program.cs" Line="23" Column="1" />
+      <File FileName="q1e/Program.cs" Line="21" Column="1" />
+      <File FileName="q2f/Program.cs" Line="25" Column="1" />
+      <File FileName="q3e/Program.cs" Line="1" Column="1" />
+      <File FileName="q4b/Program.cs" Line="30" Column="1" />
+      <File FileName="q6f/Program.cs" Line="7" Column="14" />
+      <File FileName="q5a/Program.cs" Line="6" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercises" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.q5a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.q3e PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.q4b PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.q2f PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.ex1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
