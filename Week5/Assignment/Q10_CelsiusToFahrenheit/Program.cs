@@ -17,15 +17,16 @@ namespace Q10_CelsiusToFahrenheit
     {
         static void Main(string[] args)
         {
-            double start = 101, stop = 0, f = 0;
+            double start = 100, stop = 0, f=0;
+           
             Console.Write($"{"Celsius", -10} {"Fahrenheit", -10}\n");
             Console.Write($"{"-------",-10} {"----------",-10}\n"); ;
             do
             {
-                start--;
-                f = (9 / 5) * start + 32;
-                Console.WriteLine($"{start,-10} {f, -10}\n");
-            } while (start > stop);
+                f =  9.0/5 * start + 32;
+                Console.WriteLine($"{start,5} {f, 12}");
+                start = start - 10;
+            } while (start >= stop);
         }
     }
 }

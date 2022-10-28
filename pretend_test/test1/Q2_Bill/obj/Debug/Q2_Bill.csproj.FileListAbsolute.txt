@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\bin\Debug\Q2_Bill.exe.config
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\bin\Debug\Q2_Bill.exe
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\bin\Debug\Q2_Bill.pdb
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\obj\Debug\Q2_Bill.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\obj\Debug\Q2_Bill.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\obj\Debug\Q2_Bill.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\obj\Debug\Q2_Bill.exe
+C:\Users\ivanf\development\COMP100\pretend_test\test1\Q2_Bill\obj\Debug\Q2_Bill.pdb

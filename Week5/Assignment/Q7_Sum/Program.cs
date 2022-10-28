@@ -27,11 +27,10 @@ namespace Q7_Sum
             {
                 sum = sum + number;
                 number = number + 1;
-
-                Console.WriteLine($"{number-1} {sum}");
                     
             } while (number <= stop);
 
+            Console.WriteLine($"{number - 1} {sum}");
         }
     }
 }

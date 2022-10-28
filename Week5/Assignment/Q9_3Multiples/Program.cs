@@ -26,13 +26,12 @@ namespace Q9_3Multiples
             {
                 if (start % 3 == 0)
                 {
-                    sum += start;
-                    Console.WriteLine($"the sum of multiple of 3 between {start} and {stop} is {sum:N}");
+                  
+                    sum = sum + start; //sum += start;
                 }
-                start++;
-
+                start = start + 1; //++start; start+=1; start++;
             } while (start <= stop);
-
+            Console.WriteLine($"the sum of multiple of 3 between {start} and {stop} is {sum:N0}");
         }
     }
 }

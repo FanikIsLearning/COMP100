@@ -1,0 +1,121 @@
+/*
+ * ==================       Test #1 Fall 2020     ==================
+ * 
+ * Name:
+ * Student ID:
+ *
+ * Question 1a.
+ * 10 Marks.
+ *
+ * Write a program that displays the name and address of your college. 
+ * 
+ * You must match the format exactly.
+ * 
+ * [Solution: Question1A]
+ */
+
+
+/*
+ * ==================      Test #1 Fall 2020      ==================
+ * 
+ * Name:
+ * Student ID:
+ *
+ * Question 2a.
+ * 12 Marks.
+ *
+ * Write a program that prompts the user for his name and average monthly 
+ * visa bill. The program displays his name and his annual visa bill. You 
+ * must match the format exactly.
+ * 
+ * Hint: annual bill = monthly bill * 12
+ * [Solution: Question2A]
+ */
+
+
+
+/*
+ * ==================      Test #1 Fall 2020      ==================
+ * 
+ * Name:
+ * Student ID:
+ *
+ * Question 3a.
+ * 6 Marks.
+ *
+ * Write a program that prompts the user for a letter. The program prints
+ * the letter and the number equivalent. The number equivalent is obtained
+ * by casting the char to an int. You must match the format exactly.
+ * 
+ * YOU MUST READ IN THE INPUT AS A CHAR and you MUST do an explicit cast
+ * [Solution: Question3A]
+ * [Hint: See Wk03_data_types.pptx slide #6 and #8]
+ */
+
+
+/*
+ * ==================      Test #1 Fall 2020      ==================
+ * 
+ * Name:
+ * Student ID:
+ *
+ * Question 4a.
+ * 14 Marks.
+ *
+ * Write a program that prompts the user for her home planet. Based on the
+ * user's input the program will display the following:
+ * 
+ * Input: earth
+ * Message: earth. You are an Earthling and you have 10 fingers
+ * 
+ * Input: VENUS
+ * Message: VENUS. You are a Venusian and you have 12 fingers
+ * 
+ * Input: Mars
+ * Message: Mars. You are a Martian and you have 8 fingers
+ * 
+ * any other input
+ * Message: I am sorry I don't know of that planet
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You MUST USE ONLY A SWITCH statement to solve this problem
+ * [For full marks you need to accept all combinations of earth, venus 
+ * and mars]
+ * 
+ * [Solution: Question4A]
+ */
+
+
+/*
+ * ==================      Test #1 Fall 2020      ==================
+ * 
+ * Name:
+ * Student ID:
+ *
+ * Question 5a.
+ * 12 Marks.
+ *
+ * Write a program that prompts the user for her home planet. Based on the
+ * user's input the program will display the following:
+ * 
+ * Input: earth
+ * Message: earth. You are an Earthling and you have 10 fingers
+ * 
+ * Input: VENUS
+ * Message: VENUS. You are a Venusian and you have 12 fingers
+ * 
+ * Input: Mars
+ * Message: Mars. You are a Martian and you have 8 fingers
+ * 
+ * any other input
+ * Message: I am sorry I don't know of that planet
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You MUST USE A NESTED IF statement to solve this problem
+ * [For full marks you need to accept all permutations of earth, venus 
+ * and mars]
+ * 
+ * [Solution: Question5A]
+ */

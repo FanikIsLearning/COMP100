@@ -11,6 +11,17 @@ using System.Threading.Tasks;
  *  and run a C# program that computes and displays a depreciation table for seven years. The 
  *  32). Your table must have a suitable header and the values in the table must be right-align 
  *  table should have the form: 
+ *  
+ *                         END-OF-YEAR         ACCUMULATED
+YEAR      DEPRECIATION        VALUE           DEPRECIATION
+----      ------------      ------------      ------------
+ 1            4000            24000               4000
+ 2            4000            20000               8000
+ 3            4000            16000              12000
+ 4            4000            12000              16000
+ 5            4000             8000              20000
+ 6            4000             4000              24000
+ 7            4000                0              28000
  */
 
 namespace Q11_Machine
@@ -21,15 +32,15 @@ namespace Q11_Machine
         {
             double machine = 28000, rate = 4000, ad = 0, stop = 0;
             int year = 0;
-            Console.Write($"{" ",-6} {" ",-15} {"END-OF-YEAR",-15} {"ACCUMLATED", -13}\n");
-            Console.Write($"{"YEAR",-6} {"DEPRECIATION",-18} {"VALUE",-11} {"DEPRECIATION", -13}\n");
-            Console.Write($"{"----",-6} {"------------",-15} {"-----------",-14} {"------------", -13}\n");
+            Console.Write($"{" ", 6} {" ", 12} {"END-OF-YEAR", 15} {"ACCUMLATED", 16}\n");
+            Console.Write($"{"YEAR",5} {"DEPRECIATION",15} {"VALUE",10} {"DEPRECIATION", 19}\n");
+            Console.Write($"{"----",5} {"------------",15} {"-----------",14} {"------------", 15}\n");
             do
             {
                 year++;
                 ad += rate;
                 machine -= rate;
-                Console.Write($"{year, -8} {$"{rate:c0}", -15} {$"{machine:c0}",-14} {$"{ad:c0}", -13}\n");
+                Console.Write($"{year, 3} {rate,13} {machine,14} {ad, 15}\n");
             } while (machine > stop);
             
         }
