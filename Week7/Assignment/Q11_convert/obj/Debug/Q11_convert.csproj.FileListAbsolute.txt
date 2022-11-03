@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\bin\Debug\Q11_convert.exe.config
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\bin\Debug\Q11_convert.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\bin\Debug\Q11_convert.pdb
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\obj\Debug\Q11_convert.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\obj\Debug\Q11_convert.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\obj\Debug\Q11_convert.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\obj\Debug\Q11_convert.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q11_convert\obj\Debug\Q11_convert.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\obj\Debug\Q10_grade.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\obj\Debug\Q10_grade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\obj\Debug\Q10_grade.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\bin\Debug\Q10_grade.exe.config
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\bin\Debug\Q10_grade.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\bin\Debug\Q10_grade.pdb
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\obj\Debug\Q10_grade.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q10_grade\obj\Debug\Q10_grade.pdb

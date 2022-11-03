@@ -1,0 +1,8 @@
+H:\COMP100\Week7\practice\Q12_equation\bin\Debug\Q12_equation.exe.config
+H:\COMP100\Week7\practice\Q12_equation\bin\Debug\Q12_equation.exe
+H:\COMP100\Week7\practice\Q12_equation\bin\Debug\Q12_equation.pdb
+H:\COMP100\Week7\practice\Q12_equation\obj\Debug\Q12_equation.csproj.AssemblyReference.cache
+H:\COMP100\Week7\practice\Q12_equation\obj\Debug\Q12_equation.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week7\practice\Q12_equation\obj\Debug\Q12_equation.csproj.CoreCompileInputs.cache
+H:\COMP100\Week7\practice\Q12_equation\obj\Debug\Q12_equation.exe
+H:\COMP100\Week7\practice\Q12_equation\obj\Debug\Q12_equation.pdb

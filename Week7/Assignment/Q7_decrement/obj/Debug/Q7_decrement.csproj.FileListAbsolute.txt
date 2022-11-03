@@ -1,0 +1,8 @@
+H:\COMP100\Week7\Assignment\Q7_decrement\bin\Debug\Q7_decrement.exe.config
+H:\COMP100\Week7\Assignment\Q7_decrement\bin\Debug\Q7_decrement.exe
+H:\COMP100\Week7\Assignment\Q7_decrement\bin\Debug\Q7_decrement.pdb
+H:\COMP100\Week7\Assignment\Q7_decrement\obj\Debug\Q7_decrement.csproj.AssemblyReference.cache
+H:\COMP100\Week7\Assignment\Q7_decrement\obj\Debug\Q7_decrement.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week7\Assignment\Q7_decrement\obj\Debug\Q7_decrement.csproj.CoreCompileInputs.cache
+H:\COMP100\Week7\Assignment\Q7_decrement\obj\Debug\Q7_decrement.exe
+H:\COMP100\Week7\Assignment\Q7_decrement\obj\Debug\Q7_decrement.pdb

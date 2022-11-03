@@ -1,0 +1,16 @@
+H:\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.exe.config
+H:\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.exe
+H:\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.pdb
+H:\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.AssemblyReference.cache
+H:\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.CoreCompileInputs.cache
+H:\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.exe
+H:\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.pdb
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\obj\Debug\Q8_temperature.pdb
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.exe.config
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q8_temperature\bin\Debug\Q8_temperature.pdb

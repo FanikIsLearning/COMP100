@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\bin\Debug\Q9_bank.exe.config
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\bin\Debug\Q9_bank.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\bin\Debug\Q9_bank.pdb
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\obj\Debug\Q9_bank.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\obj\Debug\Q9_bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\obj\Debug\Q9_bank.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\obj\Debug\Q9_bank.exe
+C:\Users\ivanf\development\COMP100\Week7\Assignment\Q9_bank\obj\Debug\Q9_bank.pdb
