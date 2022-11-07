@@ -1,0 +1,8 @@
+H:\COMP100\Week8\practice\pattern2\bin\Debug\pattern2.exe.config
+H:\COMP100\Week8\practice\pattern2\bin\Debug\pattern2.exe
+H:\COMP100\Week8\practice\pattern2\bin\Debug\pattern2.pdb
+H:\COMP100\Week8\practice\pattern2\obj\Debug\pattern2.csproj.AssemblyReference.cache
+H:\COMP100\Week8\practice\pattern2\obj\Debug\pattern2.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week8\practice\pattern2\obj\Debug\pattern2.csproj.CoreCompileInputs.cache
+H:\COMP100\Week8\practice\pattern2\obj\Debug\pattern2.exe
+H:\COMP100\Week8\practice\pattern2\obj\Debug\pattern2.pdb

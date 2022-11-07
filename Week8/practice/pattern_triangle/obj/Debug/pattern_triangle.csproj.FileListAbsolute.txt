@@ -1,0 +1,8 @@
+H:\COMP100\Week8\practice\pattern_triangle\bin\Debug\pattern_triangle.exe.config
+H:\COMP100\Week8\practice\pattern_triangle\bin\Debug\pattern_triangle.exe
+H:\COMP100\Week8\practice\pattern_triangle\bin\Debug\pattern_triangle.pdb
+H:\COMP100\Week8\practice\pattern_triangle\obj\Debug\pattern_triangle.csproj.AssemblyReference.cache
+H:\COMP100\Week8\practice\pattern_triangle\obj\Debug\pattern_triangle.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week8\practice\pattern_triangle\obj\Debug\pattern_triangle.csproj.CoreCompileInputs.cache
+H:\COMP100\Week8\practice\pattern_triangle\obj\Debug\pattern_triangle.exe
+H:\COMP100\Week8\practice\pattern_triangle\obj\Debug\pattern_triangle.pdb

@@ -1,0 +1,8 @@
+H:\COMP100\Week8\practice\Week8_Debugging\bin\Debug\Week8_Debugging.exe.config
+H:\COMP100\Week8\practice\Week8_Debugging\bin\Debug\Week8_Debugging.exe
+H:\COMP100\Week8\practice\Week8_Debugging\bin\Debug\Week8_Debugging.pdb
+H:\COMP100\Week8\practice\Week8_Debugging\obj\Debug\Week8_Debugging.csproj.AssemblyReference.cache
+H:\COMP100\Week8\practice\Week8_Debugging\obj\Debug\Week8_Debugging.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week8\practice\Week8_Debugging\obj\Debug\Week8_Debugging.csproj.CoreCompileInputs.cache
+H:\COMP100\Week8\practice\Week8_Debugging\obj\Debug\Week8_Debugging.exe
+H:\COMP100\Week8\practice\Week8_Debugging\obj\Debug\Week8_Debugging.pdb

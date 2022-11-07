@@ -1,0 +1,8 @@
+H:\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.exe.config
+H:\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.exe
+H:\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.pdb
+H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.AssemblyReference.cache
+H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.CoreCompileInputs.cache
+H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.exe
+H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.pdb
