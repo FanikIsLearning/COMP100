@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/bin/Debug/net6.0/q4
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/bin/Debug/net6.0/q4.deps.json
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/bin/Debug/net6.0/q4.runtimeconfig.json
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/bin/Debug/net6.0/q4.dll
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/bin/Debug/net6.0/q4.pdb
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.AssemblyInfo.cs
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.dll
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/refint/q4.dll
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.pdb
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/q4.genruntimeconfig.cache
+/Users/fanik/development/COMP100/Week8/mac/test_preparation/q4/obj/Debug/net6.0/ref/q4.dll

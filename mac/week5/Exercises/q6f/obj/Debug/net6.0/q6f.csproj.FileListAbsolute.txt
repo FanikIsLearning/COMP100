@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/bin/Debug/net6.0/q6f
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/bin/Debug/net6.0/q6f.deps.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/bin/Debug/net6.0/q6f.runtimeconfig.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/bin/Debug/net6.0/q6f.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/bin/Debug/net6.0/q6f.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.AssemblyInfo.cs
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/refint/q6f.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/q6f.genruntimeconfig.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q6f/obj/Debug/net6.0/ref/q6f.dll

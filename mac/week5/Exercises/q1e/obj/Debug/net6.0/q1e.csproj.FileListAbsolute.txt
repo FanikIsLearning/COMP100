@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.AssemblyInfo.cs
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/bin/Debug/net6.0/q1e
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/bin/Debug/net6.0/q1e.deps.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/bin/Debug/net6.0/q1e.runtimeconfig.json
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/bin/Debug/net6.0/q1e.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/bin/Debug/net6.0/q1e.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/refint/q1e.dll
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.pdb
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/q1e.genruntimeconfig.cache
+/Users/fanik/development/COMP100/mac/week5/Exercises/q1e/obj/Debug/net6.0/ref/q1e.dll
