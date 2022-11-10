@@ -6,3 +6,11 @@ H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.Suggest
 H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.CoreCompileInputs.cache
 H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.exe
 H:\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\bin\Debug\D1_Nested_Loop.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\D1_Nested_Loop\obj\Debug\D1_Nested_Loop.pdb

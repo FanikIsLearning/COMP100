@@ -6,3 +6,11 @@ H:\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.csproj.SuggestedBindingRed
 H:\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.csproj.CoreCompileInputs.cache
 H:\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.exe
 H:\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\bin\Debug\pattern1.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\bin\Debug\pattern1.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\bin\Debug\pattern1.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern1\obj\Debug\pattern1.pdb

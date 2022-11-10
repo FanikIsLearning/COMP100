@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\bin\Debug\pattern_parallelogram.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\bin\Debug\pattern_parallelogram.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\bin\Debug\pattern_parallelogram.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\obj\Debug\pattern_parallelogram.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\obj\Debug\pattern_parallelogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\obj\Debug\pattern_parallelogram.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\obj\Debug\pattern_parallelogram.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_parallelogram\obj\Debug\pattern_parallelogram.pdb

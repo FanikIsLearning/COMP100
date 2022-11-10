@@ -6,3 +6,11 @@ H:\COMP100\Week8\practice\pattern_Vshape\bin\Debug\pattern_Vshape.exe
 H:\COMP100\Week8\practice\pattern_Vshape\bin\Debug\pattern_Vshape.pdb
 H:\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.exe
 H:\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\bin\Debug\pattern_Vshape.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\bin\Debug\pattern_Vshape.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\bin\Debug\pattern_Vshape.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_Vshape\obj\Debug\pattern_Vshape.pdb

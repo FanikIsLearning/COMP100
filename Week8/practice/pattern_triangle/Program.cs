@@ -23,11 +23,11 @@ namespace pattern_triangle
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i < 16; i +=2 )
+            /*for (int i = 1; i < 16; i +=2 )
             {
                 for (int k = 0; k < (10 - i/2); k++)
                 {
-                    /* spacing */
+
                     Console.Write(" ");
                 }
                 for (int j = 0; j<i; j++ )
@@ -35,7 +35,23 @@ namespace pattern_triangle
                     Console.Write("*");
                 }
                 Console.WriteLine("");
+            }*/
+
+            int a, b, count = 1, number;
+          
+            number = 8;
+            count = number - 1;
+            for (b = 1; b <= number; b++)
+            {
+                for (a = 1; a <= count; a++)
+                    Console.Write(" ");
+                count--;
+                /*Right Triangle*/
+                for (a = 1; a <= 2 * b - 1; a++)
+                    Console.Write("*");
+                Console.WriteLine();
             }
+
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\bin\Debug\pattern_diamond.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\bin\Debug\pattern_diamond.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\bin\Debug\pattern_diamond.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\obj\Debug\pattern_diamond.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\obj\Debug\pattern_diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\obj\Debug\pattern_diamond.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\obj\Debug\pattern_diamond.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_diamond\obj\Debug\pattern_diamond.pdb

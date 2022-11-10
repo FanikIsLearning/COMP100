@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\bin\Debug\pattern_frame.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\bin\Debug\pattern_frame.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\bin\Debug\pattern_frame.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\obj\Debug\pattern_frame.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\obj\Debug\pattern_frame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\obj\Debug\pattern_frame.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\obj\Debug\pattern_frame.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\pattern_frame\obj\Debug\pattern_frame.pdb
