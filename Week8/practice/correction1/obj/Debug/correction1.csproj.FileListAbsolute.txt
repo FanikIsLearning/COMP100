@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\bin\Debug\correction1.exe.config
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\bin\Debug\correction1.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\bin\Debug\correction1.pdb
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\obj\Debug\correction1.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\obj\Debug\correction1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\obj\Debug\correction1.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\obj\Debug\correction1.exe
+C:\Users\ivanf\development\COMP100\Week8\practice\correction1\obj\Debug\correction1.pdb

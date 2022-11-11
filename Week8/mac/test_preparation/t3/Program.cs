@@ -19,21 +19,23 @@ namespace t3
     {
         static void Main(string[] args)
         {
-            int sum = 0;
+            int sum = 0, count=0;
             Console.Write("Enter the target number: ");
             int end = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 0; ; i+=2)
             {
-                if (i > end)
+                if (i >= end && sum >=end)
                 {
-                    Console.WriteLine($"The target number is {end}, final sum is {sum}.");
+                    Console.WriteLine();
+                    Console.WriteLine($"You have to add {count} even to reach to the sum {sum}.");
                     break;
                 }
                 else
                 {
                     sum += i;
-                    Console.Write($"{i} ");
+                    count++;
+                    Console.Write($"{i} + ");
                 }
             }
         }
