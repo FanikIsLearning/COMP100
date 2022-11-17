@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week9\test\3D\bin\Debug\3D.exe.config
+C:\Users\ivanf\development\COMP100\Week9\test\3D\bin\Debug\3D.exe
+C:\Users\ivanf\development\COMP100\Week9\test\3D\bin\Debug\3D.pdb
+C:\Users\ivanf\development\COMP100\Week9\test\3D\obj\Debug\3D.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week9\test\3D\obj\Debug\3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week9\test\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week9\test\3D\obj\Debug\3D.exe
+C:\Users\ivanf\development\COMP100\Week9\test\3D\obj\Debug\3D.pdb

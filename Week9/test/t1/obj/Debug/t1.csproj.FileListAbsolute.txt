@@ -1,8 +1,0 @@
-C:\Users\ivanf\development\COMP100\Week9\test\t1\bin\Debug\t1.exe.config
-C:\Users\ivanf\development\COMP100\Week9\test\t1\bin\Debug\t1.exe
-C:\Users\ivanf\development\COMP100\Week9\test\t1\bin\Debug\t1.pdb
-C:\Users\ivanf\development\COMP100\Week9\test\t1\obj\Debug\t1.csproj.AssemblyReference.cache
-C:\Users\ivanf\development\COMP100\Week9\test\t1\obj\Debug\t1.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivanf\development\COMP100\Week9\test\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
-C:\Users\ivanf\development\COMP100\Week9\test\t1\obj\Debug\t1.exe
-C:\Users\ivanf\development\COMP100\Week9\test\t1\obj\Debug\t1.pdb

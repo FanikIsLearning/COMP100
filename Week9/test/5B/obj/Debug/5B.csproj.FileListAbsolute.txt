@@ -1,8 +1,0 @@
-C:\Users\ivanf\development\COMP100\Week9\test\5B\bin\Debug\5B.exe.config
-C:\Users\ivanf\development\COMP100\Week9\test\5B\bin\Debug\5B.exe
-C:\Users\ivanf\development\COMP100\Week9\test\5B\bin\Debug\5B.pdb
-C:\Users\ivanf\development\COMP100\Week9\test\5B\obj\Debug\5B.csproj.AssemblyReference.cache
-C:\Users\ivanf\development\COMP100\Week9\test\5B\obj\Debug\5B.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivanf\development\COMP100\Week9\test\5B\obj\Debug\5B.csproj.CoreCompileInputs.cache
-C:\Users\ivanf\development\COMP100\Week9\test\5B\obj\Debug\5B.exe
-C:\Users\ivanf\development\COMP100\Week9\test\5B\obj\Debug\5B.pdb

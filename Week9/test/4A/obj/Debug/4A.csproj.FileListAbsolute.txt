@@ -1,8 +1,0 @@
-C:\Users\ivanf\development\COMP100\Week9\test\4A\bin\Debug\4A.exe.config
-C:\Users\ivanf\development\COMP100\Week9\test\4A\bin\Debug\4A.exe
-C:\Users\ivanf\development\COMP100\Week9\test\4A\bin\Debug\4A.pdb
-C:\Users\ivanf\development\COMP100\Week9\test\4A\obj\Debug\4A.csproj.AssemblyReference.cache
-C:\Users\ivanf\development\COMP100\Week9\test\4A\obj\Debug\4A.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivanf\development\COMP100\Week9\test\4A\obj\Debug\4A.csproj.CoreCompileInputs.cache
-C:\Users\ivanf\development\COMP100\Week9\test\4A\obj\Debug\4A.exe
-C:\Users\ivanf\development\COMP100\Week9\test\4A\obj\Debug\4A.pdb

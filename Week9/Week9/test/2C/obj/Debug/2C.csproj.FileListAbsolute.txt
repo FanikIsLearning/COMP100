@@ -1,0 +1,8 @@
+C:\Users\ivanf\development\COMP100\Week9\test\2C\bin\Debug\2C.exe.config
+C:\Users\ivanf\development\COMP100\Week9\test\2C\bin\Debug\2C.exe
+C:\Users\ivanf\development\COMP100\Week9\test\2C\bin\Debug\2C.pdb
+C:\Users\ivanf\development\COMP100\Week9\test\2C\obj\Debug\2C.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week9\test\2C\obj\Debug\2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week9\test\2C\obj\Debug\2C.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week9\test\2C\obj\Debug\2C.exe
+C:\Users\ivanf\development\COMP100\Week9\test\2C\obj\Debug\2C.pdb

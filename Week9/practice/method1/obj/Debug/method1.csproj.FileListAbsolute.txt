@@ -1,0 +1,8 @@
+H:\COMP100\Week9\practice\method1\bin\Debug\method1.exe.config
+H:\COMP100\Week9\practice\method1\bin\Debug\method1.exe
+H:\COMP100\Week9\practice\method1\bin\Debug\method1.pdb
+H:\COMP100\Week9\practice\method1\obj\Debug\method1.csproj.AssemblyReference.cache
+H:\COMP100\Week9\practice\method1\obj\Debug\method1.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week9\practice\method1\obj\Debug\method1.csproj.CoreCompileInputs.cache
+H:\COMP100\Week9\practice\method1\obj\Debug\method1.exe
+H:\COMP100\Week9\practice\method1\obj\Debug\method1.pdb
