@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Assignment")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dell")]
+[assembly: AssemblyCompany("Centennial College")]
 [assembly: AssemblyProduct("Assignment")]
-[assembly: AssemblyCopyright("Copyright © Dell 2022")]
+[assembly: AssemblyCopyright("Copyright © Centennial College 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0cfdd978-526c-414e-b7af-612a2e9f04e1")]
+[assembly: Guid("456973aa-92bd-4e00-8d10-1034ee29add5")]
 
 // Version information for an assembly consists of the following four values:
 //

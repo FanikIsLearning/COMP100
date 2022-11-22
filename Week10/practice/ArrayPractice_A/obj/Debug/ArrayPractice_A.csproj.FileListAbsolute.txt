@@ -1,0 +1,8 @@
+H:\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.exe.config
+H:\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.exe
+H:\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.pdb
+H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.AssemblyReference.cache
+H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.CoreCompileInputs.cache
+H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.exe
+H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.pdb
