@@ -6,3 +6,11 @@ H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.Sugg
 H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.CoreCompileInputs.cache
 H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.exe
 H:\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.pdb
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.exe.config
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.exe
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\bin\Debug\ArrayPractice_A.pdb
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.exe
+C:\Users\ivanf\development\COMP100\Week10\practice\ArrayPractice_A\obj\Debug\ArrayPractice_A.pdb

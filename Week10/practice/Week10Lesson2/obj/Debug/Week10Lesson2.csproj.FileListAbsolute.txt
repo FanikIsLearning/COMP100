@@ -6,3 +6,11 @@ H:\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.csproj.Suggeste
 H:\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.csproj.CoreCompileInputs.cache
 H:\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.exe
 H:\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.pdb
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\bin\Debug\Week10Lesson2.exe.config
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\bin\Debug\Week10Lesson2.exe
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\bin\Debug\Week10Lesson2.pdb
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.csproj.AssemblyReference.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.exe
+C:\Users\ivanf\development\COMP100\Week10\practice\Week10Lesson2\obj\Debug\Week10Lesson2.pdb

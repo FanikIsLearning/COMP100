@@ -18,7 +18,7 @@ namespace ArrayPractice_A
 
         static void Main(string[] args)
         {
-            //PrintObama();
+            PrintObama();
             //PrintReversedStringArray();
             //PrintStringAsCharArray("The quick brown fox jumps over the lazy dog.", '+');
             //forEach();
@@ -112,7 +112,6 @@ namespace ArrayPractice_A
             int[] numbers = { 3, 2, 6, 8, 1, 9, 2, 3, 4, 0 };
 
             Array.Sort(numbers);
-
             Console.WriteLine(Array.BinarySearch(numbers, 4)); // => 6
             Console.WriteLine(Array.BinarySearch(numbers, 2)); // => 2 or 3
             Console.WriteLine(Array.BinarySearch(numbers, 5)); // => a negative value;
