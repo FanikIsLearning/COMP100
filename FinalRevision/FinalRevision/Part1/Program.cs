@@ -142,7 +142,6 @@ namespace Part1
         }
         #endregion
 
-
         #region Q7
         /*
          * 7.	In a write a method called DisplayMenu() to display the following text on screen:
@@ -171,7 +170,8 @@ namespace Part1
             Console.WriteLine("|       0. End program                               |");
             Console.WriteLine("|                                                    |");
             Console.WriteLine("======================================================");
-            Console.WriteLine("          Enter the number of your choice ->");
+            //Take care of this!!!
+            Console.Write("          Enter the number of your choice ->");
         }
         #endregion
 
@@ -186,7 +186,7 @@ namespace Part1
         static void ShowMenu()
         {
             bool start = true;
-            for(; start ;)
+            for(; start ;) /*do-while loop better*/
             {
                 DisplayMenu();
                 int option = Convert.ToInt32(Console.ReadLine());
@@ -258,10 +258,6 @@ namespace Part1
             }
         }
         #endregion
-
-
-
-
 
         #endregion
     }

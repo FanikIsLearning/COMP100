@@ -12,6 +12,8 @@ namespace Part2
     {
         static int[] sphere = { 1, 2, 10 };
         static bool start = true;
+        static int[] cm = { 90, 120, 175 };
+
         static void Main(string[] args)
         {
             int[] sphere = { 1, 2, 10 };
@@ -68,6 +70,30 @@ namespace Part2
             double aa = 1, bb = 100;
             Temperature(aa);
             Temperature(bb);
+            Console.WriteLine("-------------------------------------------------------------");
+            #endregion
+
+            #region Q6
+            for(int i = 0; i < 3; i++)
+            {
+                Console.Write("Enter a starting km: ");
+                double km = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Enter an increment size: ");
+                double size = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Enter a number of lines: ");
+                int lines = Convert.ToInt32(Console.ReadLine());
+                ConvertKilometerToMiles(km, size, lines);
+            }
+            Console.WriteLine("-------------------------------------------------------------");
+            #endregion
+
+            #region Q7
+            DisplaySineTableVer2();
+            Console.WriteLine("-------------------------------------------------------------");
+            #endregion
+
+            #region Q8
+            ConvertCMtoM();
             Console.WriteLine("-------------------------------------------------------------");
             #endregion
         }
@@ -182,6 +208,77 @@ namespace Part2
                 celsius += 1;
                 i++;
             }
+        }
+        #endregion
+
+        #region Q6
+        /*
+         * 6.	Write a method that takes the following arguments: a starting km value of type double, 
+         * an increment size of type double and the number of lines of type int. 
+         * The display a kilometer to miles conversion table. [miles = km * 0.621371]. 
+         * In your main call this method three times, each time with different values.
+         */
+        static void ConvertKilometerToMiles(double km, double size, int line)
+        {
+            Console.Write("\nkilometers    miles \n");
+            Console.Write("----------   ------- \n");
+            for (int i = 0; i < line; i++)
+            {
+                double miles = km * 0.621371;
+               
+                Console.WriteLine($"{km,8:f2} {miles, 10:f2}");
+                km += size;
+            }
+        }
+        #endregion
+
+        #region Q7
+        /*
+         * Modify the DisplaySineTable() method in the previous section to accept the 
+         * start value, the step size and number of rows as argument to the method.
+         */
+        static void DisplaySineTableVer2()
+        {
+            Console.Write("Enter the start value: ");
+            double start = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Enter the step size: ");
+            double size = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Enter the rows: ");
+            int rows = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < rows; i++)
+            {
+                double sine = Math.Sin(start);
+                Console.WriteLine($"{start,5:f2} {sine,5:f4}");
+                start += size;
+            }
+        }
+
+        #endregion;
+
+        #region Q8
+        /*
+         * 8.	Write a method that converts a person’s height 
+         * from centimeter to meters and centimeters and display the result on the console. 
+         * In your main method, you should call this method three times with argument 90, 120 and 275.
+         * Input	Result
+         * 90cm	    0m 90cm
+         * 120cm	1m 20 cm
+         * 275cm	2m 75cm
+         */
+        static void ConvertCMtoM()
+        {
+            Console.WriteLine("Input   Result");
+            for(int i = 0; i < cm.Length; i++)
+            {
+                int centimeter = cm[i];
+                double meter = cm[i] / 100;
+                double box = centimeter - (meter * 100);
+                Console.WriteLine($"{centimeter,3}cm {meter,3}m {box,2}cm");
+            }
+
         }
         #endregion
     }

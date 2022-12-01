@@ -1,0 +1,8 @@
+H:\COMP100\Week11\week11_lesson2\exe1\bin\Debug\exe1.exe.config
+H:\COMP100\Week11\week11_lesson2\exe1\bin\Debug\exe1.exe
+H:\COMP100\Week11\week11_lesson2\exe1\bin\Debug\exe1.pdb
+H:\COMP100\Week11\week11_lesson2\exe1\obj\Debug\exe1.csproj.AssemblyReference.cache
+H:\COMP100\Week11\week11_lesson2\exe1\obj\Debug\exe1.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week11\week11_lesson2\exe1\obj\Debug\exe1.csproj.CoreCompileInputs.cache
+H:\COMP100\Week11\week11_lesson2\exe1\obj\Debug\exe1.exe
+H:\COMP100\Week11\week11_lesson2\exe1\obj\Debug\exe1.pdb
