@@ -1,8 +1,0 @@
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\bin\Debug\Part4.exe.config
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\bin\Debug\Part4.exe
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\bin\Debug\Part4.pdb
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\obj\Debug\Part4.csproj.AssemblyReference.cache
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\obj\Debug\Part4.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\obj\Debug\Part4.csproj.CoreCompileInputs.cache
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\obj\Debug\Part4.exe
-C:\Users\ivanf\development\COMP100\FinalRevision\FinalRevision\Part4\obj\Debug\Part4.pdb

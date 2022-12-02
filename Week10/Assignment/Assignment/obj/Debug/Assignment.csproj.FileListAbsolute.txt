@@ -6,3 +6,11 @@ C:\Users\ivanf\development\COMP100\Week10\Assignment\Assignment\bin\Debug\Assign
 C:\Users\ivanf\development\COMP100\Week10\Assignment\Assignment\bin\Debug\Assignment.pdb
 C:\Users\ivanf\development\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.exe
 C:\Users\ivanf\development\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.pdb
+H:\COMP100\Week10\Assignment\Assignment\bin\Debug\Assignment.exe.config
+H:\COMP100\Week10\Assignment\Assignment\bin\Debug\Assignment.exe
+H:\COMP100\Week10\Assignment\Assignment\bin\Debug\Assignment.pdb
+H:\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+H:\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+H:\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+H:\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.exe
+H:\COMP100\Week10\Assignment\Assignment\obj\Debug\Assignment.pdb
