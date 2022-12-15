@@ -190,7 +190,7 @@ namespace Part1
             {
                 DisplayMenu();
                 int option = Convert.ToInt32(Console.ReadLine());
-                /*switch (option)
+                switch (option)
                 {
                     case 1:
                         DisplayPersonalInfo();
@@ -224,9 +224,9 @@ namespace Part1
                     default:
                         Console.WriteLine("ERROR: Invalid option");
                         break;
-                }*/
+                }
 
-                if (option == 1)
+                /*if (option == 1)
                 {
                     DisplayPersonalInfo();
                 }
@@ -254,7 +254,7 @@ namespace Part1
                 {
                     Console.WriteLine("0. End program");
                     start = false;
-                }
+                }*/
             }
         }
         #endregion
