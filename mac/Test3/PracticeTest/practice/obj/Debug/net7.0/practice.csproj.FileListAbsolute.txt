@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/bin/Debug/net7.0/practice
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/bin/Debug/net7.0/practice.deps.json
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/bin/Debug/net7.0/practice.dll
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/bin/Debug/net7.0/practice.pdb
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.dll
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/refint/practice.dll
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.pdb
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/Users/fanik/development/COMP100/mac/Test3/PracticeTest/practice/obj/Debug/net7.0/ref/practice.dll

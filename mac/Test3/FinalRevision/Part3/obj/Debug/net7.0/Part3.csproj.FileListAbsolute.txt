@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/bin/Debug/net7.0/Part3
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/bin/Debug/net7.0/Part3.deps.json
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/bin/Debug/net7.0/Part3.runtimeconfig.json
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/bin/Debug/net7.0/Part3.dll
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/bin/Debug/net7.0/Part3.pdb
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.AssemblyInfo.cs
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.dll
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/refint/Part3.dll
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.pdb
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/Part3.genruntimeconfig.cache
+/Users/fanik/development/COMP100/mac/Test3/FinalRevision/Part3/obj/Debug/net7.0/ref/Part3.dll
